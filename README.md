@@ -22,7 +22,7 @@ Here are some of the projects I've worked on — each aimed at solving real-worl
 
 ### Heart Disease Prediction (Healthcare)
 A classification model using patient data to predict the likelihood of heart disease.
-- Techniques: Logistic Regression, Random Forest
+- Techniques: XGBoost,	Logistic Regression, and Random Forest
 - Tools: Python, Scikit-learn, Seaborn
 - 👉 [View Project](https://github.com/Ibrahim-dshub/heart-disease-prediction)
 
@@ -30,17 +30,18 @@ A classification model using patient data to predict the likelihood of heart dis
 An interactive Power BI dashboard analyzing sales, returns, and customer trends.
 - Tools: Power BI, DAX, Excel
 - Business Impact: Helps business stakeholders monitor KPIs and regional performance.
-- 👉 [View Project](https://github.com/Ibrahim-dshub/ecommerce-sales-dashboard)
+- 👉 [View Project](https://github.com/Ibrahim-dshub/E-Commerce-Business-Analytics.git)
 
-### Exploratory Data Analysis on Healthcare Data
-In-depth data cleaning, analysis, and visualization of patient and treatment records.
+### Loan Default Prediction (ML)
+Machine learning model to predict loan default risk using credit and demographic features
+- Techniques: Logistic Regression, Random Forest and SVM
 - Tools: Python (Pandas, Matplotlib), Jupyter Notebook
-- 👉 [View Project](https://github.com/Ibrahim-dshub/healthcare-eda)
+- 👉 [View Project](https://github.com/Ibrahim-dshub/loan-default-prediction.git)
 
-### Employee Attrition Analysis
-Used classification algorithms to identify key factors contributing to employee churn.
-- Tools: Python, Sklearn, Power BI
-- 👉 [View Project](https://github.com/Ibrahim-dshub/employee-attrition-analysis)
+### Real estate business analytics dashboard
+Real estate business analytics dashboard on Singapore’s HDB resale market (2012–2019)
+- Tools: Power BI, DAX, Excel
+- 👉 [View Project](https://github.com/Ibrahim-dshub/Real-Estate-Business-Analytics.git)
 
 ---
 
